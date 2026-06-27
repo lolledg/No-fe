@@ -1,4 +1,4 @@
-_G.PauseScript = true
+_G.PauseScript = false
 
 function LoadLibrary(a)
 local t = {}
